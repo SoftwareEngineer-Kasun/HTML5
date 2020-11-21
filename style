@@ -10,3 +10,10 @@
 <h1 style="font-size:300%;">This is a heading</h1>
 
 <h1 style="text-align:center;">Centered Heading</h1>
+
+border and color
+<h1 style="border:2px solid Violet;">Hello World</h1>
+
+<h1 style="background-color:rgb(255, 99, 71);">...</h1>
+<h1 style="background-color:#ff6347;">...</h1>
+<h1 style="background-color:hsl(9, 100%, 64%);">...</h1>
